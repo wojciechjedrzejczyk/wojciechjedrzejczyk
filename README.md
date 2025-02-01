@@ -1,23 +1,30 @@
-# Wojciech Jędrzejczyk
+# 👋 Hi, I'm Wojciech Jędrzejczyk!
 
-## Welcome to my repository
+I've just started my programming journey and I'm currently learning **Python**. I work in a different industry, but programming has always fascinated me, and I want to master it.
 
-### Im currently working on:
-### - Learning Python
-### - OSPGuard
+## 🚀 My Projects
 
+### 🔥 OSPGuard
+An application that supports fire departments in monitoring deadlines for periodic medical examinations and training. I'm using:
+- **Python**
+- **SQLite** for database management
+- **Wagtail** for interface handling
 
-<!--
-**wojciechjedrzejczyk/wojciechjedrzejczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌍 MUD with Evennia
+In my free time, I'm developing my own MUD game based on the **Evennia** framework, blending classic MUD experiences with modern features.
 
-Here are some ideas to get you started:
+## 💼 Skills
+- **Python** (currently learning)
+- **Git** (version control)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Grow as a programmer, exploring new technologies
+- Complete projects like OSPGuard and my MUD with Evennia
+
+## 📫 Contact
+Want to get in touch or collaborate? Feel free to reach out!
+
+---
+
+*This README was created with a passion for coding and growth.*
+
