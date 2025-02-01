@@ -26,5 +26,12 @@ Want to get in touch or collaborate? Feel free to reach out!
 
 ---
 
-*This README was created with a passion for coding and growth.*
+*And the road leads on and on
+Although it began just beyond the threshold –
+And into the distance in front of me it rushes to the east,
+And I still follow it – as best I can…
+With eager feet in its wake –
+Until it dissolves into a wider road,
+Where the stream of numerous roads has already flowed…
+And then where? – I cannot say.*
 
