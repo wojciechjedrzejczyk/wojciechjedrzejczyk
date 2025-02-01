@@ -1,4 +1,11 @@
-### Hi there 👋
+# Wojciech Jędrzejczyk
+
+## Welcome to my repository
+
+### Im currently working on:
+### - Learning Python
+### - OSPGuard
+
 
 <!--
 **wojciechjedrzejczyk/wojciechjedrzejczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
