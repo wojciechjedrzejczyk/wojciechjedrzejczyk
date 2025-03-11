@@ -15,7 +15,7 @@ In my free time, I'm developing my own MUD game based on the **Evennia** framewo
 
 ## 💼 Skills
 - **Python** (currently learning)
-- **Git** (version control)
+- **Git** (version control, I'm still learning)
 
 ## 🎯 Goals
 - Grow as a programmer, exploring new technologies
